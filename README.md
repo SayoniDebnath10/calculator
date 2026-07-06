@@ -23,7 +23,7 @@ A simple calculator built using HTML, CSS and JavaScript.
 - JavaScript
 
 ## Live Demo
-Coming Soon
+https://calculator-cyan-rho-33.vercel.app/
 
 ## Author
 *Sayoni Debnath*
